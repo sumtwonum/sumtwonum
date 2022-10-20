@@ -1,4 +1,4 @@
-function findnum () {
+ function findnum () {
 
  	a=Number(document.getElementById("getnum").value);
  	
